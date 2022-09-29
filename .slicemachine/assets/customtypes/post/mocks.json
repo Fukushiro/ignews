@@ -1,0 +1,23 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "paint",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "In laboris amet aute pariatur sunt occaecat id veniam consequat dolor. Lorem ipsum consectetur aliqua amet tempor in pariatur eu ad velit aliqua cillum in. Occaecat occaecat sint eu sunt nulla commodo qui est laborum elit.",
+        "spans": []
+      }
+    ]
+  }
+}
